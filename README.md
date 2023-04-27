@@ -2,18 +2,18 @@
 
 A discord cross-guild messenger bot. Now you could have a common portal for different communities to interact with.
 
-[ image ]
+![image](https://user-images.githubusercontent.com/115863770/234927070-2a7cdd14-b547-4c1f-9f75-bc20a11ace78.png)
 
 ## Roadmap
 
-- [x] Coding up a bot that _works_
-- [ ] Create a proper database for storing stuff
-- [ ] Create a proper database layout for multiple servers
-- [ ] If both above are done, we could launch the bot
-- [ ] Image sharing (not gif)
-- [ ] Moderation tools
+- [X] Coding up a bot that _works_
+- [ ] Create a proper database for storing stuff.
+- [ ] Create a proper database layout for multiple servers.
+- [ ] If both above are done, we could launch the bot.
+- [ ] Image sharing (not gif).
+- [ ] Moderation tools.
 
-- [ ] Improve code layout and organization
+- [ ] Improve code layout and organization.
 - [ ] A semi-decent documentation? 
 
 ## How to contribute
