@@ -2,7 +2,7 @@
 
 A discord cross-guild messenger bot. Now you could have a common portal for different communities to interact with.
 
-![image](https://user-images.githubusercontent.com/115863770/234927070-2a7cdd14-b547-4c1f-9f75-bc20a11ace78.png)
+![image](https://user-images.githubusercontent.com/115863770/234927309-14f0bf14-5de8-47aa-902c-2fe9b8ac08a5.png)
 
 ## Roadmap
 
