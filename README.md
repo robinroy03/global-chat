@@ -9,7 +9,7 @@ A discord cross-guild messenger bot. Now you could have a common portal for diff
 - [X] Coding up a bot that _works_.
 - [ ] Creating a proper database for storing stuff.
 - [ ] Creating a proper database layout for multiple servers.
-- [ ] If the both above are done, we could launch the bot.
+- [ ] If both above are done, we could launch the bot.
 - [ ] Image sharing (not gif).
 - [ ] Moderation tools.
 
